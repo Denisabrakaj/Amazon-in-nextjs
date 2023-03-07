@@ -9,8 +9,4 @@ export default NextAuth({
     }),
   ],
   secret: process.env.NEXTAUTH_SECRET
-<<<<<<< HEAD
 })
-=======
-})
->>>>>>> facc25aa78394262998a4b91a69af27dd44e5a55
